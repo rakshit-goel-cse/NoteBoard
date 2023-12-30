@@ -1,0 +1,12 @@
+
+.canvas{
+    position: fixed;
+    top:5%;
+    left:1%;
+    right: 1%;
+    height: 94%;
+    width: 98%;
+    border: 1px solid;
+    border-color: black;
+    background-color: whitesmoke;
+}
